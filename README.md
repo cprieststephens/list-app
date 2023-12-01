@@ -1,0 +1,2 @@
+- Project built using [Dave Grey's TypeScript Project from Scratch tutorial](https://www.youtube.com/watch?v=61v23Ce5SXA&t=286s).
+- Source code provided by Dave Grey [here](https://github.com/gitdagray/typescript-course/tree/main).
